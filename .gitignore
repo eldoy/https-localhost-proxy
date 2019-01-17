@@ -2,6 +2,7 @@
 node_modules
 rootCA.key
 rootCA.pem
+rootCA.srl
 server.csr
 server.key
 server.crt
