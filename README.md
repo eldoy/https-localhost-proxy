@@ -15,7 +15,9 @@ Run the generate command:
 
 Follow the instructions. Use the same password all along, at least 4 characters long. The 'Common Name' will be the name of the certificate in Keychain Access.
 
-Start the server with `node proxy.js`. The default port is 8081, customize the port by passing it on the command line:
-`node proxy.js 8000`
+Start the server with `node proxy.js`, the default port is 8081.
+
+Customize the port by passing it on the command line:
+```node proxy.js 8000```
 
 Enjoy SSL on localhost!

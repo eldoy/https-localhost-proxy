@@ -12,3 +12,5 @@ httpProxy.createServer({
     cert: fs.readFileSync('server.crt', 'utf8')
   }
 }).listen(PORT)
+
+console.log(`Started proxy server on port ${PORT}`)
