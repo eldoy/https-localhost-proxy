@@ -7,6 +7,9 @@ Inspired by [this guide](https://medium.freecodecamp.org/how-to-get-https-workin
 Clone the repo:
 `git clone https://github.com/fugroup/https-localhost-proxy`
 
+Install the packages:
+`npm i` or `yarn`
+
 Run the generate command:
 `./generate.sh`
 
